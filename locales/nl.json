@@ -1,0 +1,472 @@
+{
+
+  "menuitems": {
+
+    "dashboard": {
+      "text": "Dashboard"
+    },
+    "customers": {
+      "text": "Klanten"
+    },
+    "objects": {
+      "text": "Objecten"
+    },
+    "prospects": {
+      "text": "Inschrijvingen"
+    },
+    "appointments": {
+      "text": "Afspraken"
+    },
+    "invoices": {
+      "text": "Financiën"
+    }
+  },
+
+  "global": {
+    "advancedSearch": {
+      "text": "Uitgebreid zoeken"
+    },
+    "name": {
+      "text": "Naam"
+    },
+    "firstname": {
+      "text": "Voornaam"
+    },
+    "lastname": {
+      "text": "Achternaam"
+    },
+    "email": {
+      "text": "E-mail"
+    },
+    "phone": {
+      "text": "Telefoon"
+    },
+    "status": {
+      "text": "Status"
+    },
+    "date": {
+      "text": "Datum"
+    },
+    "add_new": {
+      "text": "Nieuwe"
+    },
+    "edit": {
+      "text": "Wijzig"
+    },
+    "address": {
+      "text": "Adres"
+    },
+    "street": {
+      "text": "Straat"
+    },
+    "number": {
+      "text": "Nummer"
+    },
+    "zipcode": {
+      "text": "Postcode"
+    },
+    "city": {
+      "text": "Woonplaats"
+    },
+    "note": {
+      "text": "Notitie"
+    },
+    "success" : {
+      "text": "Gelukt"
+    },
+    "overview": {
+      "text": "Overzicht"
+    },
+    "details": {
+      "text": "Details"
+    },
+    "update_success": {
+      "text": "Met succes gewijzigd"
+    },
+    "add_success": {
+      "text": "Met succes toegevoegd"
+    },
+    "updated_at": {
+      "text": "Laatst gewijzigd op"
+    },
+    "created_at": {
+      "text": "Aangemaakt op"
+    },
+    "make_a_choice": {
+      "text": "Maak een keuze"
+    },
+    "search": {
+      "text": "Zoeken"
+    },
+    "contact": {
+      "text": "Neem contact op"
+    },
+    "show": {
+      "text": "Toon"
+    },
+    "entries": {
+      "text": "Resultaten"
+    },
+    "no_results": {
+      "text": "Nog geen resultaten"
+    },
+    "logout": {
+      "text": "Uitloggen"
+    },
+    "password": {
+      "text": "Wachtwoord"
+    },
+    "enter": {
+      "text": "Voer iets in..."
+    },
+    "cancel": {
+      "text": "Annuleren"
+    },
+    "delete": {
+      "text": "Verwijderen"
+    },
+    "are_you_sure": {
+      "text": "Weet je dit zeker?"
+    },
+    "send_email": {
+      "text": "Verstuur bevestiging"
+    },
+    "total_results": {
+      "text": "Totaal aantal resultaten"
+    },
+    "now": {
+      "text": "Nu"
+    },
+    "immediately": {
+      "text": "Per direct"
+    },
+    "next": {
+      "text": "Volgende"
+    },
+    "previous": {
+      "text": "Vorige"
+    },
+    "per_page": {
+      "text": "Per pagina"
+    },
+    "select": {
+      "text": "Selecteer"
+    },
+    "save": {
+      "text": "Opslaan"
+    },
+    "unknown": {
+      "text": "Onbekend"
+    },
+    "amount": {
+      "text": "Bedrag"
+    },
+    "actions": {
+      "text": "Acties"
+    },
+    "products": {
+      "text": "Product | Producten"
+    },
+    "loading": {
+      "text": "Data op aan het halen.."
+    },
+    "quantity": {
+      "text": "Aantal"
+    },
+    "total": {
+      "text": "Totaal"
+    },
+    "never": {
+      "text": "Nooit"
+    },
+    "send": {
+      "text": "Verstuur"
+    },
+    "error": {
+      "text": "Daar ging iets fout."
+    },
+    "one_time": {
+      "text": "Eénmalig"
+    },
+    "tax": {
+      "text": "BTW"
+    }
+  },
+
+  "customer": {
+    "customer": {
+      "text": "Klant | Klanten"
+    },
+    "add" : {
+      "text": "Nieuwe klant"
+    },
+    "edit": {
+      "text": "Wijzig klant"
+    },
+    "show": {
+      "text": "Bekijk klant"
+    }
+  },
+
+  "object": {
+    "object": {
+      "text": "Object | Objecten"
+    },
+    "license_plate": {
+      "text": "Kenteken"
+    },
+    "spot": {
+      "text": "Plek"
+    },
+    "brand": {
+      "text": "Merk"
+    },
+    "width": {
+      "text": "Breedte"
+    },
+    "length": {
+      "text": "Lengte"
+    },
+    "add" : {
+      "text": "Nieuw object"
+    },
+    "edit": {
+      "text": "Wijzig object"
+    },
+    "object_id": {
+      "text": "Object nr"
+    },
+    "object_number": {
+      "text": "Object nummer"
+    },
+    "in": {
+      "text": "Binnen"
+    },
+    "out": {
+      "text": "Buiten"
+    }
+  },
+
+  "appointment": {
+    "appointment": {
+      "text": "Afspraak | Afspraken"
+    },
+    "in": {
+      "text": "Naar binnen"
+    },
+    "out": {
+      "text": "Naar buiten"
+    },
+    "add" : {
+      "text": "Nieuwe afspraak"
+    },
+    "edit": {
+      "text": "Wijzig afspraak"
+    },
+    "nothing": {
+      "text": "Geen afspraken voor vandaag"
+    },
+    "history": {
+      "text": "Afspraakgeschiedenis"
+    }
+  },
+
+  "prospect": {
+    "prospect": {
+      "text": "Inschrijving | Inschrijvingen"
+    },
+    "add" : {
+      "text": "Nieuwe inschrijving"
+    },
+    "edit": {
+      "text": "Wijzig inschrijving"
+    },
+    "convert": {
+      "text": "Zet om naar klant"
+    },
+    "expected_date": {
+      "text": "Gewenste stal datum"
+    }
+  },
+
+  "login": {
+    "intro": {
+      "text": "Voer je e-mailadres en wachtwoord in om het admin-paneel te openen."
+    },
+    "remember": {
+      "text": "Onthoud mij"
+    },
+    "login": {
+      "text": "Inloggen"
+    },
+    "forgot_password": {
+      "text": "Wachtwoord vergeten?"
+    },
+    "reset_password": {
+      "text": "Wachtwoord herstellen"
+    },
+    "reset_intro": {
+      "text": "Voer je e-mailadres in zodat we je een reset e-mail kunnen sturen."
+    },
+    "current_password": {
+      "text": "Huidig wachtwoord"
+    },
+    "new_password": {
+      "text": "Nieuw wachtwoord"
+    },
+    "new_password_repeat": {
+      "text": "Nieuw wachtwoord (herhaal)"
+    }
+  },
+
+  "finance" : {
+    "finance_overview": {
+      "text": "Financieel overzicht"
+    },
+    "create_in_stripe": {
+      "text": "Maak klant aan in Stripe"
+    },
+    "sync_stripe": {
+      "text": "Sync Stripe producten en prijzen"
+    }
+  },
+
+  "subscription": {
+    "subscription": {
+      "text": "Abonnement | Abonnementen"
+    },
+    "add": {
+      "text": "Nieuw abonnement"
+    },
+    "edit": {
+      "text": "Wijzig abonnement"
+    },
+    "show": {
+      "text": "Bekijk abonnement"
+    },
+    "start_date": {
+      "text": "Startdatum"
+    },
+    "end_date": {
+      "text": "Einddatum"
+    },
+    "first_day_new_month": {
+      "text": "Eerste dag van nieuwe maand"
+    },
+    "end_of_period": {
+      "text": "Einde van de huidige periode"
+    },
+    "select_a_date": {
+      "text": "Selecteer een datum"
+    },
+    "no_subscriptions": {
+      "text": "Nog geen abonnementen gevonden."
+    },
+    "after_x_cycles": {
+      "text": "Na een bepaald aantal cycli"
+    },
+    "statuses": {
+      "not_started": {
+        "text": "Ingepland"
+      },
+      "active": {
+        "text": "Actief"
+      },
+      "canceled": {
+        "text": "Geannuleerd"
+      }
+    },
+    "cancel": {
+      "text": "Stopzetten abonnement"
+    }
+  },
+
+  "invoice": {
+    "invoice": {
+      "text": "Factuur | Facturen"
+    },
+    "add": {
+      "text": "Nieuwe factuur"
+    },
+    "edit": {
+      "text": "Wijzig factuur"
+    },
+    "show": {
+      "text": "Bekijk factuur"
+    },
+    "nr": {
+      "text": "Factuur nr."
+    },
+    "change_status": {
+      "text": "Wijzig status"
+    },
+    "receipt": {
+      "text": "Betaalbewijs"
+    },
+    "no_invoices": {
+      "text": "Nog geen facturen gevonden."
+    },
+    "invoice_send": {
+      "text": "Factuur is per e-mail verzonden."
+    },
+    "invoice_send_error": {
+      "text": "Versturen factuur niet gelukt."
+    },
+    "payment_link": {
+      "text": "Betaallink"
+    },
+    "status": {
+      "paid": {
+        "text": "Betaald buiten Stripe om"
+      },
+      "void": {
+        "text": "Foutief verzonden"
+      },
+      "uncollectible": {
+        "text": "Oninbaar"
+      }
+    },
+    "statuses": {
+      "paid": {
+        "text": "Betaald"
+      },
+      "void": {
+        "text": "Foutief"
+      },
+      "uncollectible": {
+        "text": "Oninbaar"
+      },
+      "overdue": {
+        "text": "Achterstallig"
+      },
+      "draft": {
+        "text": "Concept"
+      },
+      "scheduled": {
+        "text": "Ingepland"
+      }
+    },
+    "mark_as": {
+      "text": "Markeer factuur als..."
+    },
+    "send": {
+      "text": "Verstuur factuur"
+    },
+    "send_per_mail_including_link": {
+      "text": "Per e-mail inclusief betaallink"
+    },
+    "send_per_mail_excluding_link": {
+      "text": "Per e-mail zonder betaallink"
+    },
+    "send_manually": {
+      "text": "Ik verstuur de betaallink zelf"
+    },
+    "due" : {
+      "text": "Verloopt"
+    },
+    "customer_not_found": {
+      "text": "Gebruiker niet gevonden. Neem contact met ons op."
+    }
+  }
+
+}

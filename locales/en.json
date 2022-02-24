@@ -1,0 +1,476 @@
+{
+  "menuitems": {
+    "dashboard": {
+      "text": "Dashboard"
+    },
+    "customers": {
+      "text": "Customers"
+    },
+    "objects": {
+      "text": "Objects"
+    },
+    "prospects": {
+      "text": "Prospects"
+    },
+    "appointments": {
+      "text": "Appointments"
+    },
+    "invoices": {
+      "text": "Invoices"
+    }
+  },
+  "global": {
+    "advancedSearch": {
+      "text": "Advanced search"
+    },
+    "name": {
+      "text": "Name"
+    },
+    "firstname": {
+      "text": "Firstname"
+    },
+    "lastname": {
+      "text": "Lastname"
+    },
+    "email": {
+      "text": "E-mail"
+    },
+    "phone": {
+      "text": "Phone"
+    },
+    "status": {
+      "text": "Status"
+    },
+    "date": {
+      "text": "Date"
+    },
+    "add_new": {
+      "text": "New"
+    },
+    "edit": {
+      "text": "Edit"
+    },
+    "address": {
+      "text": "Address"
+    },
+    "street": {
+      "text": "Street"
+    },
+    "number": {
+      "text": "Number"
+    },
+    "zipcode": {
+      "text": "Zipcode"
+    },
+    "city": {
+      "text": "City"
+    },
+    "note": {
+      "text": "Note"
+    },
+    "success": {
+      "text": "Done"
+    },
+    "overview": {
+      "text": "Overview"
+    },
+    "details": {
+      "text": "Details"
+    },
+    "update_success": {
+      "text": "Updated successfully"
+    },
+    "add_success": {
+      "text": "Added successfully!"
+    },
+    "updated_at": {
+      "text": "Last changed on"
+    },
+    "created_at": {
+      "text": "Created on"
+    },
+    "make_a_choice": {
+      "text": "Make a choice"
+    },
+    "search": {
+      "text": "Search"
+    },
+    "contact": {
+      "text": "Contact us"
+    },
+    "show": {
+      "text": "Show"
+    },
+    "entries": {
+      "text": "Entries"
+    },
+    "no_results": {
+      "text": "No results yet"
+    },
+    "logout": {
+      "text": "Logout"
+    },
+    "password": {
+      "text": "Password"
+    },
+    "enter": {
+      "text": "Enter something..."
+    },
+    "cancel": {
+      "text": "Cancel"
+    },
+    "delete": {
+      "text": "Delete"
+    },
+    "are_you_sure": {
+      "text": "Are you sure?"
+    },
+    "send_email": {
+      "text": "Send confirmation"
+    },
+    "total_results": {
+      "text": "Total number of records"
+    },
+    "now": {
+      "text": "Now"
+    },
+    "immediately": {
+      "text": "Immediately"
+    },
+    "next": {
+      "text": "Next"
+    },
+    "previous": {
+      "text": "Previous"
+    },
+    "per_page": {
+      "text": "Per page"
+    },
+    "select": {
+      "text": "Select"
+    },
+    "save": {
+      "text": "Save"
+    },
+    "unknown": {
+      "text": "Unknown"
+    },
+    "price": {
+      "text": "Price"
+    },
+    "quantity": {
+      "text": "Quantity"
+    },
+    "trial_ends_at": {
+      "text": "Trial ends at"
+    },
+    "ends_at": {
+      "text": "Ends at"
+    },
+    "amount": {
+      "text": "Amount"
+    },
+    "actions": {
+      "text": "Actions"
+    },
+    "products": {
+      "text": "Product | Producten"
+    },
+    "loading": {
+      "text": "Loading"
+    },
+    "total": {
+      "text": "Total"
+    },
+    "never": {
+      "text": "Never"
+    },
+    "send": {
+      "text": "Send"
+    },
+    "error": {
+      "text": "Something went wrong."
+    },
+    "one_time": {
+      "text": "One time"
+    },
+    "tax": {
+      "text": "VAT"
+    }
+  },
+  "customer": {
+    "customer": {
+      "text": "Customer | Customers"
+    },
+    "add": {
+      "text": "Add new customer"
+    },
+    "edit": {
+      "text": "Edit customer"
+    },
+    "show": {
+      "text": "Show customer"
+    }
+  },
+  "object": {
+    "object": {
+      "text": "Object | Objects"
+    },
+    "license_plate": {
+      "text": "License plate"
+    },
+    "spot": {
+      "text": "Spot"
+    },
+    "brand": {
+      "text": "Brand"
+    },
+    "width": {
+      "text": "Width"
+    },
+    "length": {
+      "text": "Length"
+    },
+    "add": {
+      "text": "Add new object"
+    },
+    "edit": {
+      "text": "Edit object"
+    },
+    "object_id": {
+      "text": "Object id"
+    },
+    "object_number": {
+      "text": "Object number"
+    },
+    "in": {
+      "text": "In"
+    },
+    "out": {
+      "text": "Out"
+    }
+  },
+  "appointment": {
+    "appointment": {
+      "text": "Appointment | Appointments"
+    },
+    "in": {
+      "text": "In"
+    },
+    "out": {
+      "text": "Out"
+    },
+    "add": {
+      "text": "Add new appointment"
+    },
+    "edit": {
+      "text": "Edit appointment"
+    },
+    "nothing": {
+      "text": "No appointment(s) for today"
+    },
+    "history": {
+      "text": "Appointment history"
+    }
+  },
+  "prospect": {
+    "prospect": {
+      "text": "Prospect | Prospects"
+    },
+    "add": {
+      "text": "Add new prospect"
+    },
+    "edit": {
+      "text": "Edit prospect"
+    },
+    "convert": {
+      "text": "Convert to customer"
+    },
+    "expected_date": {
+      "text": "Desired delivery date"
+    }
+  },
+  "login": {
+    "intro": {
+      "text": "Enter your email address and password to access admin panel."
+    },
+    "remember": {
+      "text": "Remember me"
+    },
+    "login": {
+      "text": "Login"
+    },
+    "forgot_password": {
+      "text": "Forgot your password?"
+    },
+    "reset_password": {
+      "text": "Reset your password"
+    },
+    "reset_intro": {
+      "text": "Enter your email address and we'll send you an email with instructions to reset your password."
+    },
+    "current_password": {
+      "text": "Current password"
+    },
+    "new_password": {
+      "text": "Your new password"
+    },
+    "new_password_repeat": {
+      "text": "Your new password (repeat)"
+    }
+  },
+  "finance": {
+    "finance_overview": {
+      "text": "Financial overview"
+    },
+    "create_in_stripe": {
+      "text": "Create customer in Stripe to proceed"
+    },
+    "sync_stripe": {
+      "text": "Sync Stripe Product and Prices"
+    }
+  },
+  "subscription": {
+    "subscription": {
+      "text": "Subscription | Subscriptions"
+    },
+    "add": {
+      "text": "Add new subscription"
+    },
+    "edit": {
+      "text": "Edit subscription"
+    },
+    "show": {
+      "text": "Show subscription"
+    },
+    "start_date": {
+      "text": "Start date"
+    },
+    "end_date": {
+      "text": "End date"
+    },
+    "first_day_new_month": {
+      "text": "First day of new month"
+    },
+    "end_of_period": {
+      "text": "End of the current period"
+    },
+    "select_a_date": {
+      "text": "Select a date"
+    },
+    "no_subscriptions": {
+      "text": "No subscriptions found yet."
+    },
+    "after_x_cycles": {
+      "text": "After a specific number of cycles"
+    },
+    "statuses": {
+      "not_started": {
+        "text": "Scheduled"
+      },
+      "active": {
+        "text": "Running"
+      },
+      "canceled": {
+        "text": "Canceled"
+      },
+      "cancel_scheduled": {
+        "text": "Cancel scheduled"
+      }
+    },
+    "cancel": {
+      "title": "Cancel subscription",
+      "cancel_label": "Cancel",
+      "refund": "Refund",
+      "send_refund_receipt": "Send refund receipt",
+      "recipient_email": "Recipient email address"
+    }
+  },
+  "invoice": {
+    "invoice": {
+      "text": "Invoice | Invoices"
+    },
+    "add": {
+      "text": "Add new invoice"
+    },
+    "edit": {
+      "text": "Edit invoice"
+    },
+    "show": {
+      "text": "Show invoice"
+    },
+    "nr": {
+      "text": "Invoice nr."
+    },
+    "change_status": {
+      "text": "Change status"
+    },
+    "receipt": {
+      "text": "Receipt"
+    },
+    "no_invoices": {
+      "text": "No invoices found yet."
+    },
+    "invoice_send": {
+      "text": "Invoice is send by e-mail."
+    },
+    "invoice_send_error": {
+      "text": "Error occured while sending invoice"
+    },
+    "payment_link": {
+      "text": "Payment link"
+    },
+    "status": {
+      "paid": {
+        "text": "Paid (outside of Stripe)"
+      },
+      "void": {
+        "text": "Void (wrong or send accidentally)"
+      },
+      "uncollectible": {
+        "text": "Uncollectible (not able to get paid)"
+      }
+    },
+    "statuses": {
+      "paid": {
+        "text": "Paid"
+      },
+      "void": {
+        "text": "Void"
+      },
+      "uncollectible": {
+        "text": "Uncollectible"
+      },
+      "overdue": {
+        "text": "Overdue"
+      },
+      "draft": {
+        "text": "Draft"
+      },
+      "scheduled": {
+        "text": "Scheduled"
+      }
+    },
+    "mark_as": {
+      "text": "Mark invoice as..."
+    },
+    "send": {
+      "text": "Send invoice"
+    },
+    "send_per_mail_including_link": {
+      "text": "Per email including payment link"
+    },
+    "send_per_mail_excluding_link": {
+      "text": "Per email without payment link"
+    },
+    "send_manually": {
+      "text": "I send payment link to my customer"
+    },
+    "due" : {
+      "text": "Due"
+    },
+    "customer_not_found": {
+      "text": "Related customer is not available on Stripe"
+    }
+  }
+}
